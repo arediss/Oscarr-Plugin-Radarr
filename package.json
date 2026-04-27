@@ -1,6 +1,6 @@
 {
   "name": "oscarr-plugin-radarr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Advanced Radarr management plugin for Oscarr",
   "type": "module",
   "main": "dist/index.js",

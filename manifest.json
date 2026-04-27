@@ -1,7 +1,7 @@
 {
   "id": "radarr",
   "name": "Radarr Manager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "apiVersion": "v1",
   "description": "Advanced Radarr management: library browser, quality monitoring, releases, analytics and file management.",
   "author": "Arediss",
@@ -30,7 +30,8 @@
     "testedAgainst": [
       "0.6.3",
       "0.7.0",
-      "0.7.1"
+      "0.7.1",
+      "0.7.7"
     ]
   }
 }
